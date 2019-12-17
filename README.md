@@ -1,4 +1,6 @@
 # Shakespeare_Plays
+The datafile is stored inside the 'Notebook' directory. The steps are written here. However, the classification has been done inside the notebook.
+
 STEP_1:
 Import the csv dataset and load it as a pandas dataframe
 
